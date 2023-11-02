@@ -1,2 +1,3 @@
-# portfolio
- portfolio for lmc 2700
+# my website
+made using HTML and CSS
+based on a template from w3.schools
